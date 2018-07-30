@@ -1,0 +1,1 @@
+puts "backwards".reverse.upcase
